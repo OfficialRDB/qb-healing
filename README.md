@@ -32,6 +32,6 @@ Feel free to **Pull Request** or post suggestions, issues. I will help where I c
 ```
 
 ## Issues & Suggestions
-Please use the GitHub issues system to report issues or make suggestions.  
-When making suggestion, please keep `[Suggestion]` in the title to make it clear that it is a suggestion.  
+Please use the GitHub issue system to report issues or to make suggestions.  
+When you are making a suggestion, please keep `[Suggestion]` in the title to make it clear that it is a suggestion.  
 You can also join the **[QBCore Discord](https://discord.gg/qbcore)**!
