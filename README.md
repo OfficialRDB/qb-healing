@@ -31,9 +31,8 @@ Feel free to **Pull Request** or post suggestions, issues. I will help where I c
 	},
 ```
 
-## qb-ambulancejob
-> Add this code, under line `107` after the `end`
-This is to set the laststand status in the database to true if you are bleeding out.
+## QB-Ambulancejob
+> Add this code, under line `107` after the `end` This is to set the laststand status in the database to true if you are bleeding out.
 ```
 TriggerServerEvent('hospital:server:SetLaststandStatus', bool)
 ```
