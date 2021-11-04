@@ -35,7 +35,8 @@ I removed that part in the resource, and made this one.
 ```
 
 ## QB-Ambulancejob
-> Add this code, under line `107` after the `end` This is to set the laststand status in the database to true if you are bleeding out.
+> Add this code, under line `107` after the `end`  
+This is to set the laststand status in the database to true if you are bleeding out.
 ```
 TriggerServerEvent('hospital:server:SetLaststandStatus', bool)
 ```
