@@ -1,8 +1,8 @@
 # QB-Healing
-This is a simple **RP** grandma healing script for QBCore.
+This is a simple **RP** grandma healing script for QBCore.  
 Feel free to **Pull Request** or post suggestions, issues. I will help where I can.
 
-> Yes I known there is a healing options/part in de **qb-drugs/deliveries.lua**
+> Yes I known there is a healing options/part in de **qb-drugs/deliveries.lua**  
 I removed the part in that resource.
 
 ## Requires
@@ -41,6 +41,6 @@ TriggerServerEvent('hospital:server:SetLaststandStatus', bool)
 ```
 
 ## Issues & Suggestions
-Please use the GitHub issue system to report issues or to make suggestions.
-When you are making a suggestion, please keep `[Suggestion]` in the title to make it clear that it is a suggestion.
+Please use the GitHub issue system to report issues or to make suggestions.  
+When you are making a suggestion, please keep `[Suggestion]` in the title to make it clear that it is a suggestion.  
 You can also join the **[QBCore Discord](https://discord.gg/qbcore)**!
