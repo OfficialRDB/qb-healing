@@ -13,25 +13,25 @@ I removed that part in the resource, and made this one.
 > Add this code to the **Berkie Target** config. `Config.Peds`
 ```
 [1] = {
-		model = "ig_mrs_thornhill",
-		coords = vector4(2436.83, 4958.85, 46.81, 10.2),
-		minusOne = true,
-		freeze = true,
-		invincible = true,
-		blockevents = true,
-		target = {
-			options = {
-				{
-					type = "client",
-					event = "grandma:client:healing",
-					icon = "fas fa-band-aid",
-					label = "Request Healing",
-				},
+	model = "ig_mrs_thornhill",
+	coords = vector4(2436.83, 4958.85, 46.81, 10.2),
+	minusOne = true,
+	freeze = true,
+	invincible = true,
+	blockevents = true,
+	target = {
+		options = {
+			{
+				type = "client",
+				event = "grandma:client:healing",
+				icon = "fas fa-band-aid",
+				label = "Request Healing",
 			},
-			distance = 1.5,
 		},
-		currentpednumber = 0,
+		distance = 1.5,
 	},
+	currentpednumber = 0,
+},
 ```
 
 ## QB-Ambulancejob
