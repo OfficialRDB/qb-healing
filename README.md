@@ -2,7 +2,7 @@
 This is a simple **RP** grandma healing script for QBCore.  
 Feel free to **Pull Request** or post suggestions, issues. I will help where I can.
 
-> Yes I known there is a healing options/part in de **qb-drugs/deliveries.lua**  
+> Yes I known there is a healing options/part in de **qb-drugs/client/deliveries.lua**  
 I removed that part in the resource, and made this one.
 
 ## Requires
